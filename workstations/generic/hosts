@@ -1,9 +1,8 @@
 ##
-# Host Database
+# Host Database additions
 #
-# localhost is used to configure the loopback interface
-# when the system is booting.  Do not change this entry.
+# add the below the local hosts files of the workstations to be able to function 
+# in cases where the internal DNS servers are not available.
 ##
-127.0.0.1	localhost
-255.255.255.255	broadcasthost
-::1             localhost
+
+192.168.1.88 proxmox0.internal.terminalcult.org
