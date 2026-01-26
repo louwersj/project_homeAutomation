@@ -6,3 +6,5 @@
 ##
 
 192.168.1.88 proxmox0.internal.terminalcult.org
+192.168.1.134 n8n.internal.terminalcult.org
+192.168.1.129 jellyfin.internal.terminalcult.org
